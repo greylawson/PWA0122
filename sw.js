@@ -4,6 +4,7 @@ var filesToCash = [
   '/index.html',
   'css/style.css',
   'js/main.js',
+  'images/hello-icon-128.png',
   ];
 
 /* Start the service worker and cache all of the app's content */
