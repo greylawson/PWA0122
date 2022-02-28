@@ -3,7 +3,7 @@ const RUNTIME = 'runtime';
 
 var cacheName = 'hello-pwa';
 var PRECACHE_URLS = [
-  '/index.html',
+  'index.html',
   './', //alias for index.html
   'css/style.css',
   'js/main.js',
