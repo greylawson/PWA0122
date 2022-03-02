@@ -5,7 +5,7 @@ var cacheName = 'hello-pwa';
 var PRECACHE_URLS = [
   'index.html',
   './', //alias for index.html
-  'css/style.css',
+  'css/birdstyle.css',
   'js/main.js',
   'images/hello-icon-128.png',
   'images/hello-icon-144.png',
