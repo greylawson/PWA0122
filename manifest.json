@@ -40,7 +40,7 @@
 }],
   
 "lang": "en-US",
-"start-url": "/PWA0122/index.html",
+"start_url": "/PWA0122/index.html",
 "display": "standalone",
 "background_color": "white",
 "theme_color": "white"
